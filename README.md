@@ -1,0 +1,2 @@
+-Burada "options-DisableConcurrentBuilds" ile jobun aynı zamanlı çalışmasını engellemiş olduk.
+-jenkinsfile-disableConcurrentBuilds image'inde gerekli görseli görebilirsiniz.
